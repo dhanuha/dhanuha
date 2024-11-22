@@ -9,7 +9,8 @@
 
 <h2>👨‍💻 Security Projects:</h2>
 
-  - [Comprehensive secure network implementation](https://github.com/dhanuha/secure-networking)
+  - <b> network security <b>
+    - [Comprehensive secure network implementation](https://github.com/dhanuha/secure-networking)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
