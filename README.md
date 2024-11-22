@@ -12,7 +12,7 @@
   - <b> network security <b>
     - [Comprehensive secure network implementation](https://github.com/dhanuha/secure-networking)
 
- <h2>👨‍💻 cyberSecurity Projects:</h2>
+ <h2>👨‍💻 cyberSecurity Plan:</h2>
  
 <h2>📺 Popular YouTube Videos</h2>
 
