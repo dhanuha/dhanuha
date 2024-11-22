@@ -28,24 +28,22 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="dhanunjaiandey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dhanunjaiandey | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] <br>
 
 
 
 
-[linkedin]: www.linkedin.com/in/dhanunjai-andey
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin]: (https://www.linkedin.com/in/dhanunjai-andey/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
+- 🔭 I’m currently working on ... <br>
+- 🌱 I’m currently learning ... <br>
+- 👯 I’m looking to collaborate on ... <br>
+- 🤔 I’m looking for help with ... <br>
+- 💬 Ask me about ... <br>
+- 📫 How to reach me: ... <br>
+- 😄 Pronouns: ... <br>
+- ⚡ Fun fact: ... <br>
 -->
