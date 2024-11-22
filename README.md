@@ -1,16 +1,19 @@
 <h1>Hi, I'm Dhanunjai Andey ! <br/><a href="https://github.com/joshmadakor1", <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Graduate</a>
 
-<h2>👨‍💻 python Projects:</h2>
+<h2> 🐍 python Projects:</h2>
 
 - <b> Simple CardsGame </b>
   - [Interactive web-based card game in Python](https://github.com/dhanuha/cardsgame)
 - <b>e-commerce management system</b>
   - [Console-based e-commerce management system](https://github.com/dhanuha/E-commerce-Management-System) 
-- <b>PowerShell</b>
+
+<h2>👨‍💻 network security Projects:</h2>
+
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+    
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
