@@ -3,7 +3,7 @@
 <h2>👨‍💻 python Projects:</h2>
 
 - <b> Simple CardsGame </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Interactive web-based card game in Python]((https://github.com/dhanuha/cardsgame))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
