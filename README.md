@@ -7,7 +7,7 @@
 - <b>e-commerce management system</b>
   - [Console-based e-commerce management system](https://github.com/dhanuha/E-commerce-Management-System) 
 
-<h2>👨‍💻 network security Projects:</h2>
+<h2>👨‍💻 Security Projects:</h2>
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
