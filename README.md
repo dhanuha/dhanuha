@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dhanunjai Andey ! <br/><a href="https://github.com/joshmadakor1", <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Graduate</a>
+<h1>Hi, I'm Dhanunjai Andey ! <br/><a href="https://github.com/dhanuha", <a href="https://www.linkedin.com/in/dhanunjai-andey/">Cybersecurity Graduate</a>
 
 <h2> 🐍 python Projects:</h2>
 
