@@ -7,17 +7,17 @@
 - <b>e-commerce management system</b>
   - [Console-based e-commerce management system](https://github.com/dhanuha/E-commerce-Management-System) 
 
-<h2>👨‍💻 Security Projects:</h2>
+<h2> 👨‍💻 Security Projects:</h2>
 
   - <b> network security <b>
     - [Comprehensive secure network implementation](https://github.com/dhanuha/secure-networking)
 
- <h2>👨‍💻 cyberSecurity Plan:</h2>
+ <h2> 🛡️ cyberSecurity Plan:</h2>
 
    - <b> cyberplan <b>
      - [cybersecurity plan of our website and my learnings](https://github.com/dhanuha/cyberplan)  
  
-<h2>📺 Decision support system (DSS) Project </h2>
+<h2> 📊 Decision support system (DSS) Project </h2>
 
   - <b> dss project <b>
     - [innovation lab DSS](https://github.com/dhanuha/Innovation-Lab-DSS)
@@ -35,7 +35,7 @@
 
 
 <br>
-- 🔭 I’m currently working on ... <br>
+- 🔭 I’m currently working on Comptia Security+ <br>
 - 🌱 I’m currently learning ... <br>
 - 👯 I’m looking to collaborate on ... <br>
 - 🤔 I’m looking for help with ... <br>
