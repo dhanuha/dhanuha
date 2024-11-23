@@ -10,17 +10,17 @@
 
 <h2> 👨‍💻 Security Projects:</h2>
 
-  - <b> network security <b>
+  - <b> network security </b>
     - [Comprehensive secure network implementation](https://github.com/dhanuha/secure-networking)
 
  <h2> 🛡️ cyberSecurity Plan:</h2>
 
-   - <b> cyberplan <b>
+   - <b> cyberplan </b>
      - [cybersecurity plan of our website and my learnings](https://github.com/dhanuha/cyberplan)  
  
 <h2> 📊 Decision support system (DSS) Project </h2>
 
-  - <b> dss project <b>
+  - <b> dss project </b>
     - [innovation lab DSS](https://github.com/dhanuha/Innovation-Lab-DSS)
 
 <h2> 🤳 Connect with me:</h2>
