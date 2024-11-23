@@ -5,22 +5,22 @@
 - <b> Simple CardsGame </b>
   - [Interactive web-based card game in Python](https://github.com/dhanuha/cardsgame)
 
-- <b>e-commerce management system</b>
+- <b> E-commerce management system</b>
   - [Console-based e-commerce management system](https://github.com/dhanuha/E-commerce-Management-System) 
 
 <h2> 👨‍💻 Security Projects:</h2>
 
-  - <b> network security </b>
+  - <b> Network security </b>
     - [Comprehensive secure network implementation](https://github.com/dhanuha/secure-networking)
 
- <h2> 🛡️ cyberSecurity Plan:</h2>
+ <h2> 🛡️ CyberSecurity Plan:</h2>
 
-   - <b> cyberplan </b>
+   - <b> Cyberplan </b>
      - [cybersecurity plan of our website and my learnings](https://github.com/dhanuha/cyberplan)  
  
 <h2> 📊 Decision support system (DSS) Project </h2>
 
-  - <b> dss project </b>
+  - <b> Dss project </b>
     - [innovation lab DSS](https://github.com/dhanuha/Innovation-Lab-DSS)
 
 <h2> 🤳 Connect with me:</h2>
