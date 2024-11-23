@@ -35,13 +35,13 @@
 [linkedin]: (https://www.linkedin.com/in/dhanunjai-andey/)
 
 
-<br>
-- 🔭 I’m currently working on Comptia Security+ <br>
-- 🌱 I’m currently learning ... <br>
-- 👯 I’m looking to collaborate on ... <br>
-- 🤔 I’m looking for help with ... <br>
-- 💬 Ask me about ... <br>
-- 📫 How to reach me: ... <br>
-- 😄 Pronouns: ... <br>
-- ⚡ Fun fact: ... <br>
--->
+- 🔭 I’m preparing for the <b>CompTIA Security+</b> certification to build a strong foundation in cybersecurity practices.  
+- 🌱 Currently, I’m learning <b>SOC workflows</b>, including incident detection, log analysis, and working with SIEM tools, to excel as a SOC Analyst.  
+- 👯 I’m open to collaborating on <b>cybersecurity projects</b> related to threat monitoring, threat hunting, and incident response.  
+- 🤔 I’m actively seeking opportunities to <b>begin my career as a SOC Analyst</b>, where I can apply my skills in threat detection, vulnerability assessments, and security operations while continuing to grow in the field.  
+- 💬 I have hands-on experience with <b>security testing</b>, including clickjacking and SQL injection attacks, and using tools like OWASP ZAP, Burp Suite, and Nmap.  
+- 📫 How to reach me: <b>andeydhanu@gmail.com</b>  
+- 😄 Pronouns: He/Him  .
+
+
+
