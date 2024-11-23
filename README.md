@@ -17,9 +17,10 @@
    - <b> cyberplan <b>
      - [cybersecurity plan of our website and my learnings](https://github.com/dhanuha/cyberplan)  
  
-<h2>📺 Decesion support system (DSS) Project </h2>
+<h2>📺 Decision support system (DSS) Project </h2>
 
-  - [innovation lab DSS](https://github.com/dhanuha/Innovation-Lab-DSS)
+  - <b> dss project <b>
+    - [innovation lab DSS](https://github.com/dhanuha/Innovation-Lab-DSS)
 
 <h2> 🤳 Connect with me:</h2>
 
