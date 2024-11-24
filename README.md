@@ -1,5 +1,5 @@
-<h1>Hi, I'm Dhanunjai Andey! <br/>
-<a href="https://github.com/dhanuha">GitHub</a> | 
+
+<h1> Hi, I'm <a href="https://github.com/dhanuha">Dhanunjai Andey</a> ! <br/> 
 <a href="https://www.linkedin.com/in/dhanunjai-andey/">Cybersecurity Graduate from Monash University</a></h1>
 
 <p>
