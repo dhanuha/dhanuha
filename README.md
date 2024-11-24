@@ -1,4 +1,15 @@
-<h1>Hi, I'm Dhanunjai Andey ! <br/><a href="https://github.com/dhanuha", <a href="https://www.linkedin.com/in/dhanunjai-andey/">Cybersecurity Graduate from Monash University</a>
+<h1>Hi, I'm Dhanunjai Andey! <br/>
+<a href="https://github.com/dhanuha">GitHub</a> | 
+<a href="https://www.linkedin.com/in/dhanunjai-andey/">Cybersecurity Graduate from Monash University</a></h1>
+
+<p>
+I am a dedicated cybersecurity master's student with a strong passion for learning and solving complex security challenges. I thrive in team environments, value integrity, and adhere to the highest standards of ethical conduct.
+</p>
+
+<p>
+My interest in understanding how cybersecurity issues arise, combined with my drive to develop practical solutions, enables me to contribute effectively to the security goals of organizations. I am currently preparing for the <b>CompTIA Security+</b> certification and will take the test soon to solidify my expertise. I am eager to apply my skills and knowledge to help protect sensitive data and ensure the safety of individuals and systems.
+</p>
+
 
 <h2> 🐍 python Projects:</h2>
 
