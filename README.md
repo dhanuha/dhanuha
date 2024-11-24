@@ -1,6 +1,6 @@
 
 <h1> Hi, I'm <a href="https://github.com/dhanuha">Dhanunjai Andey</a> ! <br/> 
-<a href="https://www.linkedin.com/in/dhanunjai-andey/">Cybersecurity Graduate from Monash University</a></h1>
+<a href="https://www.linkedin.com/in/dhanunjai-andey/">Cybersecurity Graduate </a> from Monash University </h1>
 
 <p>
 I am a dedicated cybersecurity master's student with a strong passion for learning and solving complex security challenges. I thrive in team environments, value integrity, and adhere to the highest standards of ethical conduct.
