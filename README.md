@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/dhanunjai-andey/">Cybersecurity Graduate </a> from Monash University </h1>
 
 <p>
-I am a dedicated cybersecurity master's student with a strong passion for learning and solving complex security challenges. I thrive in team environments, value integrity, and adhere to the highest standards of ethical conduct.
+I am a dedicated cybersecurity graduate with a strong passion for learning and solving complex security challenges. I thrive in team environments, value integrity, and adhere to the highest standards of ethical conduct.
 </p>
 
 <p>
