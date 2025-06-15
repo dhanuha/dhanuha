@@ -46,13 +46,14 @@ My interest in understanding how cybersecurity issues arise, combined with my dr
 [linkedin]: (https://www.linkedin.com/in/dhanunjai-andey/)
 
 
-- 🔭 I’m preparing for the <b>CompTIA Security+</b> certification to build a strong foundation in cybersecurity practices.  
-- 🌱 Currently, I’m learning <b>SOC workflows</b>, including incident detection, log analysis, and working with SIEM tools, to excel as a SOC Analyst.  
-- 👯 I’m open to collaborating on <b>cybersecurity projects</b> related to threat monitoring, threat hunting, and incident response.  
-- 🤔 I’m actively seeking opportunities to <b>begin my career as a SOC Analyst</b>, where I can apply my skills in threat detection, vulnerability assessments, and security operations while continuing to grow in the field.  
-- 💬 I have hands-on experience with <b>security testing</b>, including clickjacking and SQL injection attacks, and using tools like OWASP ZAP, Burp Suite, and Nmap.  
-- 📫 How to reach me: <b>andeydhanu@gmail.com</b>  
-- 😄 Pronouns: He/Him  .
+🔐 I recently earned the CompTIA Security+ (SY0-701) certification, strengthening my foundation in cybersecurity principles and best practices.
+🧪 Currently, I’m gaining hands-on lab experience by working through the TryHackMe SOC Level 1 pathway to sharpen my practical SOC skills.
+📊 I’m learning SOC workflows such as incident detection, log analysis, and working with SIEM tools, preparing myself to excel as a SOC Analyst.
+🤝 I’m open to collaborating on cybersecurity projects related to threat monitoring, threat hunting, and incident response.
+🚀 I’m actively looking for entry-level opportunities as a SOC Analyst, where I can contribute to threat detection, vulnerability assessments, and security operations while continuing to grow in the field.
+🛠️ I have hands-on experience with security testing, including clickjacking, SQL injection attacks, and using tools like OWASP ZAP, Burp Suite, and Nmap.
+📫 Reach me at: andeydhanu@gmail.com
+😄 Pronouns: He/Him
 
 
 
