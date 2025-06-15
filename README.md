@@ -49,11 +49,18 @@ My interest in understanding how cybersecurity issues arise, combined with my dr
 - 🔐 I recently earned the CompTIA Security+ (SY0-701) certification, strengthening my foundation in cybersecurity principles and best practices.
 - 🧪 Currently, I’m gaining hands-on lab experience by working through the TryHackMe SOC Level 1 pathway to sharpen my practical SOC skills.
 - 📊 I’m learning SOC workflows such as incident detection, log analysis, and working with SIEM tools, preparing myself to excel as a SOC Analyst.
-🤝 I’m open to collaborating on cybersecurity projects related to threat monitoring, threat hunting, and incident response.
-🚀 I’m actively looking for entry-level opportunities as a SOC Analyst, where I can contribute to threat detection, vulnerability assessments, and security operations while continuing to grow in the field.
-🛠️ I have hands-on experience with security testing, including clickjacking, SQL injection attacks, and using tools like OWASP ZAP, Burp Suite, and Nmap.
-📫 Reach me at: andeydhanu@gmail.com
-😄 Pronouns: He/Him
+- 🧠 I’ve explored threat analysis frameworks like the Cyber Kill Chain, Diamond Model, and MITRE ATT&CK to better understand adversary behavior and attack lifecycles.
+- 🤝 I’m open to collaborating on cybersecurity projects related to threat monitoring, threat hunting, and incident response.
+- 🚀 I’m actively looking for entry-level opportunities as a SOC Analyst, where I can contribute to threat detection, vulnerability assessments, and security operations, while continuing to grow in the field.
+- 🛠️ Tools I’ve worked with include:
+   -  Burp Suite
+   -  OWASP ZAP
+   -  Nmap
+   -  MITRE ATT&CK Navigator
+   -  OpenCTI
+   -  TryHackMe
+- 📫 Reach me at: andeydhanu@gmail.com
+- 😄 Pronouns: He/Him
 
 
 
