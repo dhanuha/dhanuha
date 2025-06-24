@@ -24,11 +24,14 @@ My interest in understanding how cybersecurity issues arise, combined with my dr
   - <b> Network security </b>
     - [Comprehensive secure network implementation](https://github.com/dhanuha/secure-networking)
 
- <h2> 🛡️ CyberSecurity Plan:</h2>
+ <h2> 🛡️ CyberSecurity Projects :</h2>
 
    - <b> Cyberplan </b>
-     - [cybersecurity plan of our website and my learnings](https://github.com/dhanuha/cyberplan)  
- 
+     - [cybersecurity plan of our website and my learnings](https://github.com/dhanuha/cyberplan)
+       
+ - <b> Cybersecurity Labs & Tool Practice! </b>
+     - [hands-on experience and practical learning journey through TryHackMe labs!](https://github.com/dhanuha?tab=repositories#:~:text=Cybersecurity%2DLabs%2DTool%2DPractice)
+       
 <h2> 📊 Decision support system (DSS) Project </h2>
 
   - <b> Dss project </b>
@@ -59,6 +62,8 @@ My interest in understanding how cybersecurity issues arise, combined with my dr
    -  MITRE ATT&CK Navigator
    -  OpenCTI
    -  TryHackMe
+   -  Zeek
+   -  Snort
 - 📫 Reach me at: andeydhanu@gmail.com
 - 😄 Pronouns: He/Him
 
