@@ -30,7 +30,7 @@ My interest in understanding how cybersecurity issues arise, combined with my dr
      - [cybersecurity plan of our website and my learnings](https://github.com/dhanuha/cyberplan)
        
  - <b> Cybersecurity Labs & Tool Practice! </b>
-     - [hands-on experience and practical learning journey through TryHackMe labs!](https://github.com/dhanuha?tab=repositories#:~:text=Cybersecurity%2DLabs%2DTool%2DPractice)
+     - [hands-on experience and practical learning journey through TryHackMe labs!](https://github.com/dhanuha/Cybersecurity-Labs-Tool-Practice)
        
 <h2> 📊 Decision support system (DSS) Project </h2>
 
