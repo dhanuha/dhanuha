@@ -17,7 +17,10 @@ My interest in understanding how cybersecurity issues arise, combined with my dr
   - [Interactive web-based card game in Python](https://github.com/dhanuha/cardsgame)
 
 - <b> E-commerce management system</b>
-  - [Console-based e-commerce management system](https://github.com/dhanuha/E-commerce-Management-System) 
+  - [Console-based e-commerce management system](https://github.com/dhanuha/E-commerce-Management-System)
+    
+- <b> Autism detection </b>
+  - [Autism Spectrum Disorder Detection in Children Using Machine Learning](https://github.com/dhanuha/autism-detection) 
 
 <h2> 👨‍💻 Security Projects:</h2>
 
